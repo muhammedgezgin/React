@@ -1,0 +1,64 @@
+#t-name {
+    font-size: 25px;
+    padding-top: 20px;
+    padding-bottom: 6px;
+}
+#t-job {
+    font-size: 14px;
+    color: #F3BF99;
+    padding-top: 0px;
+    padding-bottom: 8px;
+}
+#t-site {
+    font-size: 10px;
+    padding-top: 0px;
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}
+#maincontent {
+    margin-top: -20px;
+    background-color: #1A1B21;
+    width: 300px;
+    padding-bottom: 30px;
+}
+button {
+    width: 115px;
+    padding: 9px 15px;
+    font-family: 'Inter';
+    border-radius: 10px;
+    border: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#linkedin {
+    background-color: #5093E2;
+    color: white;
+}
+
+#btn {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: bold;
+}
+#btn img {
+    width: 20px;
+    height: 15px;
+    margin-bottom: -3px;
+    margin-right: 5px;
+}
+h2 {
+    margin-top: 33px;
+    text-align: left;
+    font-size: 16px;
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+}
+.content p {
+    margin-top: -8px;
+    font-size: 10px;
+    color:#DCDCDC;
+    width: 230px;
+}
