@@ -1,5 +1,4 @@
 import React from "react";
-import '../styles/Main.css';
 import email from '../styles/images/mail.svg';
 import linkedin from '../styles/images/linkedin.svg';
 
