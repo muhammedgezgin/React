@@ -1,5 +1,4 @@
 import React from "react";
-import '../styles/Footer.css';
 import instagram from '../styles/images/instagram.svg';
 import facebook from '../styles/images/facebook.svg';
 import twitter from '../styles/images/twitter.svg';
